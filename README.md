@@ -4,6 +4,7 @@ It is a tool that will help you to generate readable and easy rememberable passw
 # Requirements
 
 **Python** `>=3.x.x`
+
 **Basic Python knowledge**
 
 # How to run
